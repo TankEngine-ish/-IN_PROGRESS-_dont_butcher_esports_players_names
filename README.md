@@ -1,2 +1,2 @@
-# dont_butcher_esports_players_names
+# Zero Butchers
 A website that collects the correct pronunciations of player's nicknames in e-sports.
